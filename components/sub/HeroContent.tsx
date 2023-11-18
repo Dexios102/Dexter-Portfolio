@@ -32,7 +32,7 @@ const HeroContent = () => {
             h-5 w-5"
           />
           <h1 className="Welcome-text text-[13px]">
-            Dexter Dave Cajayon Portfolio
+            Dexter Dave Cajayon Portfolio sheshh
           </h1>
         </motion.div>
         <motion.div
